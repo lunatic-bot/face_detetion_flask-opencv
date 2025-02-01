@@ -25,7 +25,7 @@ This repository contains a Flask-based web application that performs face and ey
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/face_detection_flask-opencv.git
+   git clone https://github.com/lunatic-bot/face_detetion_flask-opencv.git
    cd face_detection_flask-opencv
 
 2. Install the required Python libraries:
